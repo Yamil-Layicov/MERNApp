@@ -1,5 +1,5 @@
 {
-  "name": "aaa",
+  "name": "mernapp",
   "version": "1.0.0",
   "description": "RestAPI",
   "main": "server.js",
@@ -10,7 +10,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "repository": {
-    "type": "git",
+    "type": "git+https://github.com/Yamil-Layicov/MERNApp",
     "url": "asd"
   },
   "author": "Yamil",
